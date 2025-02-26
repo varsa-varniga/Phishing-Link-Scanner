@@ -50,6 +50,7 @@ This project is a part of my internship at Brainwave Matrix Solutions. A big tha
 Enhanced Threat Analysis – Incorporate more advanced ML models.
 Detailed Reporting – Provide comprehensive reports on phishing risks.
 URL History Tracking – Maintain a history of scanned URLs for reference.
+
 🤖 Connect
 Feel free to reach out if you have any questions or suggestions! Let's make the internet a safer place!
 linkedin profile: https://www.linkedin.com/in/vijay-v63/
